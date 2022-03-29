@@ -56,8 +56,10 @@
 ### Multiple constraints: Training time and ML pipeline Size
 
 ![cifar_250_20](https://user-images.githubusercontent.com/45913687/160591245-f5d4d838-eae7-44b6-bc91-93651d7225a2.png)
-![cifar10_200_10](https://user-images.githubusercontent.com/45913687/160591283-9227ee60-c508-41bb-ab67-d18e3835180b.png)
-![cifar_125_20](https://user-images.githubusercontent.com/45913687/160591434-7ad4753f-b7f8-421b-b334-cc3e0a17967a.png)
+![cifar_200_10](https://user-images.githubusercontent.com/45913687/160594120-86f1c6c1-6ea1-49ea-80d2-29655514434e.png)
+![cifar_125_20](https://user-images.githubusercontent.com/45913687/160594139-a207e671-f272-4ae2-901c-781bf03962e3.png)
+
+
 
 ## Complex CNN with Intel dataset
 ### Single constraint: Training time
