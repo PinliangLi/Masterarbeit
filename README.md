@@ -47,10 +47,11 @@
 
 ### Single constraint: ML pipeline Size
 
-![cifar_200MB](https://user-images.githubusercontent.com/45913687/160590482-01d7c233-c2dd-488d-90a9-8e7481e41fb1.png)
-![cifar_100MB](https://user-images.githubusercontent.com/45913687/160590552-e12a32f9-d75c-4e67-9bd0-4e13e55d3153.png)
-![cifar_50MB](https://user-images.githubusercontent.com/45913687/160590617-f512c91b-406e-46e5-9adc-dcabe75a3cf8.png)
-![cifar_10MB](https://user-images.githubusercontent.com/45913687/160590750-72443efe-7c22-4581-847d-405a99634dfa.png)
+![cifar_200MB](https://user-images.githubusercontent.com/45913687/160593434-c588b415-5f6e-4298-905a-64841755d2ad.png)
+![cifar_100MB](https://user-images.githubusercontent.com/45913687/160593471-1ffa46dc-1769-4dbc-a120-035988ae8bba.png)
+![cifar_50MB](https://user-images.githubusercontent.com/45913687/160593596-0f9b97e8-5c99-425e-966d-a0aad410e143.png)
+![cifar_10MB](https://user-images.githubusercontent.com/45913687/160593621-d83db014-c71c-496a-bdcc-6f04d5597760.png)
+
 
 ### Multiple constraints: Training time and ML pipeline Size
 
