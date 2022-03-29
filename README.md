@@ -41,8 +41,9 @@
 ![cifar_500s](https://user-images.githubusercontent.com/45913687/160589632-54e4f84f-fc99-4060-b5bb-7e5c2cd8a6b4.png)
 ![cifar_125s](https://user-images.githubusercontent.com/45913687/160589803-cf3012e2-7f9d-4da3-a33e-e8af4d6881a0.png)
 ![cifar_75s](https://user-images.githubusercontent.com/45913687/160590106-23db15e4-f28e-4536-b074-6d09fe1492a6.png)
-![cifar_50s](https://user-images.githubusercontent.com/45913687/160590237-a0831e5a-2342-43b0-aaab-872332cd540d.png)
-![cifar_25s](https://user-images.githubusercontent.com/45913687/160590303-b0fb202b-58f0-42d6-9565-7dd9037b6a7b.png)
+![cifar_50s](https://user-images.githubusercontent.com/45913687/160592700-69f994a4-5799-42b3-86ed-f4c1006fa438.png)
+![cifar_25s](https://user-images.githubusercontent.com/45913687/160592724-0fc31b63-06fe-4e99-b069-48837fd1241a.png)
+
 
 ### Single constraint: ML pipeline Size
 
