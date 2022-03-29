@@ -25,3 +25,8 @@
 ### Single constraint: Training time
 
 ![fashionmnist_1s](https://user-images.githubusercontent.com/45913687/160586289-58ca60d6-2d04-4b65-8249-613bee610320.png)
+![fashionmnist_0 5s](https://user-images.githubusercontent.com/45913687/160586859-11d1909b-1688-46b6-8173-56e9741293eb.png)
+![fashionmnist_0 3s](https://user-images.githubusercontent.com/45913687/160587019-eb140da7-2c1f-4464-b55f-04311f7dd562.png)
+![fashionmnist_0 2s](https://user-images.githubusercontent.com/45913687/160587240-a4e5abfb-fa78-42f2-a4c9-900c1af48666.png)
+
+### Multiple constraints: Training time and ML pipeline Size
