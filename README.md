@@ -34,3 +34,36 @@
 ![fashionmnist_2 5_2 5](https://user-images.githubusercontent.com/45913687/160588257-f5afd0fc-c409-4dd8-bdba-942afc5f248f.png)
 ![fashionmnist_1_2 5](https://user-images.githubusercontent.com/45913687/160588289-071dc58b-65ee-4850-b02e-0d178500a0ce.png)
 
+## Complex CNN with Cifar10 dataset
+### Single constraint: Training time
+
+![cifar10_1000](https://user-images.githubusercontent.com/45913687/160589456-c973355d-9851-467d-9e5c-ceea1f068893.png)
+![cifar_500s](https://user-images.githubusercontent.com/45913687/160589632-54e4f84f-fc99-4060-b5bb-7e5c2cd8a6b4.png)
+![cifar_125s](https://user-images.githubusercontent.com/45913687/160589803-cf3012e2-7f9d-4da3-a33e-e8af4d6881a0.png)
+![cifar_75s](https://user-images.githubusercontent.com/45913687/160590106-23db15e4-f28e-4536-b074-6d09fe1492a6.png)
+![cifar_50s](https://user-images.githubusercontent.com/45913687/160590237-a0831e5a-2342-43b0-aaab-872332cd540d.png)
+![cifar_25s](https://user-images.githubusercontent.com/45913687/160590303-b0fb202b-58f0-42d6-9565-7dd9037b6a7b.png)
+
+### Single constraint: ML pipeline Size
+
+![cifar_200MB](https://user-images.githubusercontent.com/45913687/160590482-01d7c233-c2dd-488d-90a9-8e7481e41fb1.png)
+![cifar_100MB](https://user-images.githubusercontent.com/45913687/160590552-e12a32f9-d75c-4e67-9bd0-4e13e55d3153.png)
+![cifar_50MB](https://user-images.githubusercontent.com/45913687/160590617-f512c91b-406e-46e5-9adc-dcabe75a3cf8.png)
+![cifar_10MB](https://user-images.githubusercontent.com/45913687/160590750-72443efe-7c22-4581-847d-405a99634dfa.png)
+
+### Multiple constraints: Training time and ML pipeline Size
+
+![cifar_250_20](https://user-images.githubusercontent.com/45913687/160591245-f5d4d838-eae7-44b6-bc91-93651d7225a2.png)
+![cifar10_200_10](https://user-images.githubusercontent.com/45913687/160591283-9227ee60-c508-41bb-ab67-d18e3835180b.png)
+![cifar_125_20](https://user-images.githubusercontent.com/45913687/160591434-7ad4753f-b7f8-421b-b334-cc3e0a17967a.png)
+
+## Complex CNN with Intel dataset
+### Single constraint: Training time
+![500_based](https://user-images.githubusercontent.com/45913687/160591573-dbb48f50-ead8-47d5-9b3d-6c75ca3d71d4.png)
+![25_based](https://user-images.githubusercontent.com/45913687/160591599-68936ae2-ff45-4b0e-9ad6-5191b5476f1b.png)
+
+## Random Forest Classifer
+![Figure_1](https://user-images.githubusercontent.com/45913687/160591861-77aae501-ee5b-4a6b-8223-8ddc14d71b98.png)
+
+
+
