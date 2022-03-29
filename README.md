@@ -15,3 +15,13 @@
 ![mnist_0 5](https://user-images.githubusercontent.com/45913687/160584418-9786fadb-95f1-437c-b054-e32e475c8969.png)
 ![mnist_0 2MB](https://user-images.githubusercontent.com/45913687/160584715-1484556c-aeb8-48e3-ad86-1ae8bc3af392.png)
 ![mnist_0 1MB](https://user-images.githubusercontent.com/45913687/160584972-3c83cc44-3e31-4ddd-b5c1-df181c0446ac.png)
+
+### Multiple constraints: Training time and ML pipeline Size
+
+![mnist_3_0 5](https://user-images.githubusercontent.com/45913687/160585518-ff201fc8-7f17-4d16-ad23-902d8abb28f7.png)
+![mnist_1 5_0 5](https://user-images.githubusercontent.com/45913687/160585829-81582bcb-c74a-4749-ae86-58d7560f96c1.png)
+
+## Simple CNN with FashionMNIST dataset
+### Single constraint: Training time
+
+![fashionmnist_1s](https://user-images.githubusercontent.com/45913687/160586289-58ca60d6-2d04-4b65-8249-613bee610320.png)
