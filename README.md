@@ -1,2 +1,2 @@
 # Results of experiments
-# Simple CNN with MNIST dataset
+## Simple CNN with MNIST dataset
