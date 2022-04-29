@@ -1,0 +1,316 @@
+cuda:1
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 290, 'num_filters_2': 242, 'num_filters_3': 469, 'num_filters_4': 343, 'num_filters_5': 450, 'num_filters_6': 260, 'num_fc_units': 28, 'lr': 0.09067590031704013, 'dropout_rate': 0.8585122399507876, 'num_training_data': 6113}
+Files already downloaded and verified
+train_accuracy: 0.09995092425977425 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 94.13661247608252 model_size: 18.806388
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 247, 'num_filters_2': 403, 'num_filters_3': 158, 'num_filters_4': 70, 'num_filters_5': 196, 'num_filters_6': 181, 'num_fc_units': 530, 'lr': 0.08371505536572664, 'dropout_rate': 0.1968112941945652, 'num_training_data': 38867}
+Files already downloaded and verified
+train_accuracy: 0.10000771863020043 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 489.94804101088084 model_size: 222.352272
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 425, 'num_filters_2': 140, 'num_filters_3': 398, 'num_filters_4': 302, 'num_filters_5': 197, 'num_filters_6': 374, 'num_fc_units': 608, 'lr': 0.053664809091257155, 'dropout_rate': 0.6889911629676032, 'num_training_data': 5638}
+Files already downloaded and verified
+train_accuracy: 0.10003547357218871 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 56.58200017595664 model_size: 89.379832
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 423, 'num_filters_2': 145, 'num_filters_3': 126, 'num_filters_4': 99, 'num_filters_5': 89, 'num_filters_6': 138, 'num_fc_units': 430, 'lr': 0.01639794554045815, 'dropout_rate': 0.405818219468669, 'num_training_data': 19474}
+Files already downloaded and verified
+train_accuracy: 0.0999794597925439 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 211.66518515604548 model_size: 6.149492
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 325, 'num_filters_2': 385, 'num_filters_3': 240, 'num_filters_4': 371, 'num_filters_5': 396, 'num_filters_6': 258, 'num_fc_units': 549, 'lr': 0.053431205735463984, 'dropout_rate': 0.6561942952188248, 'num_training_data': 37868}
+Files already downloaded and verified
+train_accuracy: 0.10000528150417239 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 610.6974101320375 model_size: 221.004396
+Evaluating at 
+{'num_conv_layers': 1, 'num_filters_1': 140, 'num_filters_2': 102, 'num_filters_3': 450, 'num_filters_4': 386, 'num_filters_5': 420, 'num_filters_6': 501, 'num_fc_units': 54, 'lr': 0.015411673778216284, 'dropout_rate': 0.6583355443829138, 'num_training_data': 20782}
+Files already downloaded and verified
+train_accuracy: 0.5604369165624098 validation_accracy: 0.4714 test_accuracy: 0.4829 traning_time: 32.81501719192602 model_size: 7.759536
+record time: 1531.7943181991577
+[[7.81501719]] [[-92.240464]]
+best result: 
+------------------------------------------------------------
+best config: [1, 140, 102, 450, 386, 420, 501, 54, 0.015411673778216284, 0.6583355443829138, 20782] best result: [[0.5286]] traning_time: 32.81501719192602 model size: 7.759536
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 443, 'num_filters_2': 326, 'num_filters_3': 430, 'num_filters_4': 235, 'num_filters_5': 340, 'num_filters_6': 302, 'num_fc_units': 165, 'lr': 0.05299583509557656, 'dropout_rate': 0.0503842411598834, 'num_training_data': 16579}
+Files already downloaded and verified
+train_accuracy: 0.10000603172688341 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 321.41760978801176 model_size: 28.468668
+record time: 1858.9956276416779
+[[296.41760979]] [[-71.531332]]
+Evaluating at 
+{'num_conv_layers': 6, 'num_filters_1': 505, 'num_filters_2': 473, 'num_filters_3': 221, 'num_filters_4': 481, 'num_filters_5': 117, 'num_filters_6': 478, 'num_fc_units': 417, 'lr': 0.082727959762131, 'dropout_rate': 0.7345243300166989, 'num_training_data': 6554}
+Files already downloaded and verified
+train_accuracy: 0.10009154714678059 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 177.87366709695198 model_size: 33.067364
+record time: 2042.0015261173248
+[[152.8736671]] [[-66.932636]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 435, 'num_filters_2': 459, 'num_filters_3': 261, 'num_filters_4': 405, 'num_filters_5': 39, 'num_filters_6': 406, 'num_fc_units': 819, 'lr': 0.09966840294061094, 'dropout_rate': 0.48630649899357054, 'num_training_data': 5210}
+Files already downloaded and verified
+train_accuracy: 0.1 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 138.07252874202095 model_size: 18.00838
+record time: 2184.5402131080627
+[[113.07252874]] [[-81.99162]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 175, 'num_filters_2': 242, 'num_filters_3': 183, 'num_filters_4': 142, 'num_filters_5': 257, 'num_filters_6': 197, 'num_fc_units': 734, 'lr': 0.020551969032984677, 'dropout_rate': 0.21443754559721045, 'num_training_data': 34047}
+Files already downloaded and verified
+train_accuracy: 0.7274649748876553 validation_accracy: 0.5302 test_accuracy: 0.5335 traning_time: 293.1355478349142 model_size: 17.49624
+record time: 2484.489143371582
+[[268.13554783]] [[-82.50376]]
+best result: 
+------------------------------------------------------------
+best config: [5, 175, 242, 183, 142, 257, 197, 734, 0.020551969032984677, 0.21443754559721045, 34047] best result: [[0.4698]] traning_time: 293.1355478349142 model size: 17.49624
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 384, 'num_filters_2': 376, 'num_filters_3': 137, 'num_filters_4': 372, 'num_filters_5': 463, 'num_filters_6': 69, 'num_fc_units': 884, 'lr': 0.02990099918352464, 'dropout_rate': 0.8383787634846138, 'num_training_data': 7795}
+Files already downloaded and verified
+train_accuracy: 0.10006414368184734 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 104.47455097385682 model_size: 345.642488
+record time: 2593.4864733219147
+[[79.47455097]] [[245.642488]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 360, 'num_filters_2': 239, 'num_filters_3': 5, 'num_filters_4': 248, 'num_filters_5': 6, 'num_filters_6': 7, 'num_fc_units': 758, 'lr': 0.06955745134119458, 'dropout_rate': 0.4351127844923132, 'num_training_data': 23876}
+Files already downloaded and verified
+train_accuracy: 0.10001675322499581 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 262.0336178801954 model_size: 51.384684
+record time: 2861.728519678116
+[[237.03361788]] [[-48.615316]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 133, 'num_filters_2': 45, 'num_filters_3': 365, 'num_filters_4': 108, 'num_filters_5': 44, 'num_filters_6': 442, 'num_fc_units': 498, 'lr': 0.05202526552379402, 'dropout_rate': 0.7447675043531072, 'num_training_data': 13863}
+Files already downloaded and verified
+train_accuracy: 0.10005049412104162 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 62.99536384199746 model_size: 3.838416
+record time: 2928.838228225708
+[[37.99536384]] [[-96.161584]]
+Evaluating at 
+{'num_conv_layers': 6, 'num_filters_1': 94, 'num_filters_2': 18, 'num_filters_3': 229, 'num_filters_4': 484, 'num_filters_5': 197, 'num_filters_6': 477, 'num_fc_units': 430, 'lr': 0.007786374117678955, 'dropout_rate': 0.5646662445673288, 'num_training_data': 33241}
+Files already downloaded and verified
+train_accuracy: 0.09999699166691736 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 188.2771646999754 model_size: 24.17696
+record time: 3123.5251412391663
+[[163.2771647]] [[-75.82304]]
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 331, 'num_filters_2': 465, 'num_filters_3': 153, 'num_filters_4': 32, 'num_filters_5': 357, 'num_filters_6': 79, 'num_fc_units': 168, 'lr': 0.02171157107920788, 'dropout_rate': 0.5499357976025303, 'num_training_data': 13042}
+Files already downloaded and verified
+train_accuracy: 0.09998466492869192 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 236.00574792199768 model_size: 14.72936
+record time: 3364.894999742508
+[[211.00574792]] [[-85.27064]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 283, 'num_filters_2': 318, 'num_filters_3': 405, 'num_filters_4': 430, 'num_filters_5': 209, 'num_filters_6': 215, 'num_fc_units': 461, 'lr': 0.03232219830910256, 'dropout_rate': 0.5692679200496071, 'num_training_data': 13047}
+Files already downloaded and verified
+train_accuracy: 0.09994634781942209 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 142.06808114401065 model_size: 153.409428
+record time: 3512.002064228058
+[[117.06808114]] [[53.409428]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 367, 'num_filters_2': 409, 'num_filters_3': 403, 'num_filters_4': 219, 'num_filters_5': 339, 'num_filters_6': 338, 'num_fc_units': 725, 'lr': 0.060106955823983926, 'dropout_rate': 0.012295684750171577, 'num_training_data': 22293}
+Files already downloaded and verified
+train_accuracy: 0.10003139999102857 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 367.04394205403514 model_size: 309.119988
+record time: 3885.8574731349945
+[[342.04394205]] [[209.119988]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 160, 'num_filters_2': 10, 'num_filters_3': 119, 'num_filters_4': 178, 'num_filters_5': 159, 'num_filters_6': 205, 'num_fc_units': 271, 'lr': 0.044165469633252186, 'dropout_rate': 0.47947623462447514, 'num_training_data': 22135}
+Files already downloaded and verified
+train_accuracy: 0.09997741133950756 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 72.263086166 model_size: 13.243032
+record time: 3962.9801976680756
+[[47.26308617]] [[-86.756968]]
+Evaluating at 
+{'num_conv_layers': 1, 'num_filters_1': 295, 'num_filters_2': 18, 'num_filters_3': 471, 'num_filters_4': 169, 'num_filters_5': 217, 'num_filters_6': 7, 'num_fc_units': 1005, 'lr': 0.08295624402085254, 'dropout_rate': 0.247953649932378, 'num_training_data': 5078}
+Files already downloaded and verified
+train_accuracy: 0.10003938558487593 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 18.448838314972818 model_size: 303.6677
+record time: 3985.0310220718384
+[[-6.55116169]] [[203.6677]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 486, 'num_filters_2': 445, 'num_filters_3': 75, 'num_filters_4': 42, 'num_filters_5': 34, 'num_filters_6': 495, 'num_fc_units': 984, 'lr': 0.01920897463505126, 'dropout_rate': 0.04774778487974875, 'num_training_data': 13961}
+Files already downloaded and verified
+train_accuracy: 0.09999283718931308 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 283.23236095602624 model_size: 11.393364
+record time: 4274.200140953064
+[[258.23236096]] [[-88.606636]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 5, 'num_filters_2': 187, 'num_filters_3': 308, 'num_filters_4': 178, 'num_filters_5': 157, 'num_filters_6': 60, 'num_fc_units': 430, 'lr': 0.09202602501729412, 'dropout_rate': 0.11275411305314581, 'num_training_data': 25685}
+Files already downloaded and verified
+train_accuracy: 0.0999805333852443 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 61.0696541829966 model_size: 82.393768
+record time: 4340.646840810776
+[[36.06965418]] [[-17.606232]]
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 315, 'num_filters_2': 37, 'num_filters_3': 501, 'num_filters_4': 445, 'num_filters_5': 4, 'num_filters_6': 206, 'num_fc_units': 35, 'lr': 0.018859422680358263, 'dropout_rate': 0.7902615242378374, 'num_training_data': 34949}
+Files already downloaded and verified
+train_accuracy: 0.09997424819022004 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 230.80163210304454 model_size: 5.614884
+record time: 4578.081330537796
+[[205.8016321]] [[-94.385116]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 359, 'num_filters_2': 134, 'num_filters_3': 350, 'num_filters_4': 129, 'num_filters_5': 24, 'num_filters_6': 136, 'num_fc_units': 267, 'lr': 0.011676703162367581, 'dropout_rate': 0.07662301598377498, 'num_training_data': 29258}
+Files already downloaded and verified
+train_accuracy: 0.09997265705106295 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 325.43585093389265 model_size: 13.917472
+record time: 4910.4859890937805
+[[300.43585093]] [[-86.082528]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 428, 'num_filters_2': 193, 'num_filters_3': 423, 'num_filters_4': 189, 'num_filters_5': 396, 'num_filters_6': 253, 'num_fc_units': 457, 'lr': 0.02293447218661088, 'dropout_rate': 0.43805905737804884, 'num_training_data': 26030}
+Files already downloaded and verified
+train_accuracy: 0.5981943910872071 validation_accracy: 0.449 test_accuracy: 0.4548 traning_time: 297.0264394360129 model_size: 93.360424
+record time: 5214.214597225189
+[[272.02643944]] [[-6.639576]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 472, 'num_filters_2': 157, 'num_filters_3': 263, 'num_filters_4': 63, 'num_filters_5': 409, 'num_filters_6': 85, 'num_fc_units': 813, 'lr': 0.05189727150801616, 'dropout_rate': 0.788321524690756, 'num_training_data': 5227}
+Files already downloaded and verified
+train_accuracy: 0.10005739429883298 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 58.94036171911284 model_size: 133.461432
+record time: 5276.9530346393585
+[[33.94036172]] [[33.461432]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 311, 'num_filters_2': 80, 'num_filters_3': 268, 'num_filters_4': 57, 'num_filters_5': 495, 'num_filters_6': 275, 'num_fc_units': 538, 'lr': 0.07426926396775023, 'dropout_rate': 0.638731132750271, 'num_training_data': 34026}
+Files already downloaded and verified
+train_accuracy: 0.09998236642567448 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 252.7281505111605 model_size: 20.33918
+record time: 5536.42270731926
+[[227.72815051]] [[-79.66082]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 458, 'num_filters_2': 444, 'num_filters_3': 506, 'num_filters_4': 233, 'num_filters_5': 279, 'num_filters_6': 109, 'num_fc_units': 1016, 'lr': 0.030445066017101986, 'dropout_rate': 0.35652773050072206, 'num_training_data': 29995}
+Files already downloaded and verified
+train_accuracy: 0.10005000833472245 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 639.7904287909623 model_size: 469.348984
+record time: 6185.245858669281
+[[614.79042879]] [[369.348984]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 163, 'num_filters_2': 264, 'num_filters_3': 227, 'num_filters_4': 123, 'num_filters_5': 293, 'num_filters_6': 433, 'num_fc_units': 773, 'lr': 0.0961731172013445, 'dropout_rate': 0.5286337567005719, 'num_training_data': 5402}
+Files already downloaded and verified
+train_accuracy: 0.09996297667530545 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 50.36563407513313 model_size: 20.560352
+record time: 6239.207464933395
+[[25.36563408]] [[-79.439648]]
+Evaluating at 
+{'num_conv_layers': 6, 'num_filters_1': 275, 'num_filters_2': 433, 'num_filters_3': 276, 'num_filters_4': 417, 'num_filters_5': 223, 'num_filters_6': 499, 'num_fc_units': 859, 'lr': 0.0069948224487151245, 'dropout_rate': 0.7612489315483397, 'num_training_data': 5677}
+Files already downloaded and verified
+train_accuracy: 0.10005284481240091 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 123.92102779704146 model_size: 47.595
+record time: 6367.831398010254
+[[98.9210278]] [[-52.405]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 276, 'num_filters_2': 253, 'num_filters_3': 210, 'num_filters_4': 106, 'num_filters_5': 265, 'num_filters_6': 475, 'num_fc_units': 250, 'lr': 0.042054686522297886, 'dropout_rate': 0.49480066371521075, 'num_training_data': 10601}
+Files already downloaded and verified
+train_accuracy: 0.10008489765116499 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 115.19624419813044 model_size: 10.524376
+record time: 6487.402189493179
+[[90.1962442]] [[-89.475624]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 334, 'num_filters_2': 194, 'num_filters_3': 379, 'num_filters_4': 397, 'num_filters_5': 76, 'num_filters_6': 343, 'num_fc_units': 734, 'lr': 0.08550600203455393, 'dropout_rate': 0.6132235569331158, 'num_training_data': 17103}
+Files already downloaded and verified
+train_accuracy: 0.10004092849207741 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 172.94161571306176 model_size: 148.21668
+record time: 6665.522101402283
+[[147.94161571]] [[48.21668]]
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 146, 'num_filters_2': 379, 'num_filters_3': 188, 'num_filters_4': 418, 'num_filters_5': 144, 'num_filters_6': 67, 'num_fc_units': 444, 'lr': 0.09443490241800755, 'dropout_rate': 0.5987908840310447, 'num_training_data': 9335}
+Files already downloaded and verified
+train_accuracy: 0.09994643813604713 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 91.86465833312832 model_size: 25.964124
+record time: 6761.585620880127
+[[66.86465833]] [[-74.035876]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 191, 'num_filters_2': 361, 'num_filters_3': 143, 'num_filters_4': 75, 'num_filters_5': 354, 'num_filters_6': 271, 'num_fc_units': 108, 'lr': 0.09094062156857156, 'dropout_rate': 0.16487103577567838, 'num_training_data': 7329}
+Files already downloaded and verified
+train_accuracy: 0.10001364442625188 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 62.57717801886611 model_size: 42.433576
+record time: 6828.236654996872
+[[37.57717802]] [[-57.566424]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 117, 'num_filters_2': 238, 'num_filters_3': 91, 'num_filters_4': 498, 'num_filters_5': 419, 'num_filters_6': 483, 'num_fc_units': 910, 'lr': 0.07084937901004287, 'dropout_rate': 0.7095975479054454, 'num_training_data': 18284}
+Files already downloaded and verified
+train_accuracy: 0.1000328155764603 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 97.30789511906914 model_size: 222.834512
+record time: 6930.551436185837
+[[72.30789512]] [[122.834512]]
+Evaluating at 
+{'num_conv_layers': 6, 'num_filters_1': 373, 'num_filters_2': 366, 'num_filters_3': 354, 'num_filters_4': 189, 'num_filters_5': 487, 'num_filters_6': 100, 'num_fc_units': 159, 'lr': 0.018390302168007484, 'dropout_rate': 0.4067339698022651, 'num_training_data': 10902}
+Files already downloaded and verified
+train_accuracy: 0.09998165474224913 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 190.45834478898905 model_size: 18.126712
+record time: 7126.150095939636
+[[165.45834479]] [[-81.873288]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 48, 'num_filters_2': 494, 'num_filters_3': 507, 'num_filters_4': 16, 'num_filters_5': 181, 'num_filters_6': 30, 'num_fc_units': 113, 'lr': 0.01196008444221528, 'dropout_rate': 0.751727724223506, 'num_training_data': 7681}
+Files already downloaded and verified
+train_accuracy: 0.09998698086186694 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 75.75303227710538 model_size: 10.639456
+record time: 7205.846486330032
+[[50.75303228]] [[-89.360544]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 340, 'num_filters_2': 458, 'num_filters_3': 173, 'num_filters_4': 137, 'num_filters_5': 477, 'num_filters_6': 436, 'num_fc_units': 249, 'lr': 0.043462137179604544, 'dropout_rate': 0.3681706376733587, 'num_training_data': 19447}
+Files already downloaded and verified
+train_accuracy: 0.09996400473080681 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 307.1326885691378 model_size: 122.435836
+record time: 7519.364241600037
+[[282.13268857]] [[22.435836]]
+Evaluating at 
+{'num_conv_layers': 6, 'num_filters_1': 216, 'num_filters_2': 508, 'num_filters_3': 397, 'num_filters_4': 53, 'num_filters_5': 194, 'num_filters_6': 433, 'num_fc_units': 849, 'lr': 0.020302280313284474, 'dropout_rate': 0.6143970356510436, 'num_training_data': 17627}
+Files already downloaded and verified
+train_accuracy: 0.10001701934532252 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 284.21170889399946 model_size: 38.95766
+record time: 7809.3662395477295
+[[259.21170889]] [[-61.04234]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 363, 'num_filters_2': 84, 'num_filters_3': 49, 'num_filters_4': 318, 'num_filters_5': 43, 'num_filters_6': 64, 'num_fc_units': 40, 'lr': 0.024308616127290954, 'dropout_rate': 0.5687205690669849, 'num_training_data': 13821}
+Files already downloaded and verified
+train_accuracy: 0.09999276463352869 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 87.13754466199316 model_size: 4.581144
+record time: 7900.874071598053
+[[62.13754466]] [[-95.418856]]
+Evaluating at 
+{'num_conv_layers': 1, 'num_filters_1': 58, 'num_filters_2': 474, 'num_filters_3': 268, 'num_filters_4': 399, 'num_filters_5': 41, 'num_filters_6': 360, 'num_fc_units': 494, 'lr': 0.027449424464859932, 'dropout_rate': 0.8062285216513402, 'num_training_data': 17951}
+Files already downloaded and verified
+train_accuracy: 0.10005013648264721 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 12.631293534999713 model_size: 29.36792
+record time: 7917.842478513718
+[[-12.36870647]] [[-70.63208]]
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 399, 'num_filters_2': 112, 'num_filters_3': 287, 'num_filters_4': 32, 'num_filters_5': 441, 'num_filters_6': 257, 'num_fc_units': 120, 'lr': 0.04187015710758812, 'dropout_rate': 0.7896616862337976, 'num_training_data': 22055}
+Files already downloaded and verified
+train_accuracy: 0.09997732940376332 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 184.2036720230244 model_size: 11.634196
+record time: 8107.41451716423
+[[159.20367202]] [[-88.365804]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 417, 'num_filters_2': 483, 'num_filters_3': 402, 'num_filters_4': 453, 'num_filters_5': 297, 'num_filters_6': 165, 'num_fc_units': 689, 'lr': 0.012507995465402997, 'dropout_rate': 0.6021202267749254, 'num_training_data': 8975}
+Files already downloaded and verified
+train_accuracy: 0.09994428969359331 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 263.15365461306646 model_size: 38.820176
+record time: 8376.302361249924
+[[238.15365461]] [[-61.179824]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 155, 'num_filters_2': 467, 'num_filters_3': 227, 'num_filters_4': 448, 'num_filters_5': 276, 'num_filters_6': 76, 'num_fc_units': 556, 'lr': 0.023248783264213067, 'dropout_rate': 0.2767378422635053, 'num_training_data': 6456}
+Files already downloaded and verified
+train_accuracy: 0.10006195786864931 validation_accracy: 0.0998 test_accuracy: 0.1 traning_time: 97.47928358218633 model_size: 24.403288
+record time: 8477.983219146729
+[[72.47928358]] [[-75.596712]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 268, 'num_filters_2': 365, 'num_filters_3': 115, 'num_filters_4': 501, 'num_filters_5': 419, 'num_filters_6': 247, 'num_fc_units': 738, 'lr': 0.07887308076785547, 'dropout_rate': 0.04896569213999596, 'num_training_data': 9524}
+Files already downloaded and verified
+train_accuracy: 0.1000629987400252 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 146.97375538409688 model_size: 34.52218
+record time: 8629.471409082413
+[[121.97375538]] [[-65.47782]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 79, 'num_filters_2': 499, 'num_filters_3': 128, 'num_filters_4': 12, 'num_filters_5': 130, 'num_filters_6': 213, 'num_fc_units': 690, 'lr': 0.016478730053557968, 'dropout_rate': 0.4535069895471796, 'num_training_data': 7043}
+Files already downloaded and verified
+train_accuracy: 0.746130910123527 validation_accracy: 0.4564 test_accuracy: 0.4519 traning_time: 58.726256244117394 model_size: 354.03384
+record time: 8692.262438297272
+[[33.72625624]] [[254.03384]]
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 464, 'num_filters_2': 307, 'num_filters_3': 102, 'num_filters_4': 197, 'num_filters_5': 435, 'num_filters_6': 487, 'num_fc_units': 438, 'lr': 0.06988885808057642, 'dropout_rate': 0.23190992072738123, 'num_training_data': 8819}
+Files already downloaded and verified
+train_accuracy: 0.1000113391540991 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 145.23046661098488 model_size: 17.765404
+record time: 8841.916843891144
+[[120.23046661]] [[-82.234596]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 323, 'num_filters_2': 418, 'num_filters_3': 42, 'num_filters_4': 28, 'num_filters_5': 413, 'num_filters_6': 255, 'num_fc_units': 798, 'lr': 0.08529695128042589, 'dropout_rate': 0.16383811436275597, 'num_training_data': 5859}
+Files already downloaded and verified
+train_accuracy: 0.10001706775900324 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 102.77211175416596 model_size: 346.50304
+record time: 8949.193089008331
+[[77.77211175]] [[246.50304]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 208, 'num_filters_2': 72, 'num_filters_3': 350, 'num_filters_4': 91, 'num_filters_5': 154, 'num_filters_6': 341, 'num_fc_units': 330, 'lr': 0.008283718237851418, 'dropout_rate': 0.2962762909540021, 'num_training_data': 37230}
+Files already downloaded and verified
+train_accuracy: 0.1 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 212.4670640900731 model_size: 6.390444
+record time: 9168.523856163025
+[[187.46706409]] [[-93.609556]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 492, 'num_filters_2': 487, 'num_filters_3': 132, 'num_filters_4': 200, 'num_filters_5': 313, 'num_filters_6': 256, 'num_fc_units': 291, 'lr': 0.07006845898169058, 'dropout_rate': 0.029104254192328406, 'num_training_data': 15859}
+Files already downloaded and verified
+train_accuracy: 0.10000630556781638 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 382.02914224681444 model_size: 20.045756
+record time: 9557.082966327667
+[[357.02914225]] [[-79.954244]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 280, 'num_filters_2': 282, 'num_filters_3': 227, 'num_filters_4': 144, 'num_filters_5': 123, 'num_filters_6': 37, 'num_fc_units': 729, 'lr': 0.0707289971431069, 'dropout_rate': 0.32464414136348346, 'num_training_data': 7287}
+Files already downloaded and verified
+train_accuracy: 0.10004116920543434 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 86.87090024584904 model_size: 12.766732
+record time: 9647.888011932373
+[[61.87090025]] [[-87.233268]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 397, 'num_filters_2': 6, 'num_filters_3': 328, 'num_filters_4': 63, 'num_filters_5': 236, 'num_filters_6': 93, 'num_fc_units': 258, 'lr': 0.032165513821141765, 'dropout_rate': 0.23849572156012752, 'num_training_data': 30166}
+Files already downloaded and verified
+train_accuracy: 0.10001325996154611 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 193.965967067983 model_size: 5.390972
+record time: 9848.073320865631
+[[168.96596707]] [[-94.609028]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 354, 'num_filters_2': 171, 'num_filters_3': 511, 'num_filters_4': 316, 'num_filters_5': 350, 'num_filters_6': 67, 'num_fc_units': 212, 'lr': 0.053757004773358194, 'dropout_rate': 0.3390687587540346, 'num_training_data': 7591}
+Files already downloaded and verified
+train_accuracy: 0.09998682650507179 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 113.90058571798727 model_size: 19.922884
+record time: 9966.407481908798
+[[88.90058572]] [[-80.077116]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 352, 'num_filters_2': 37, 'num_filters_3': 424, 'num_filters_4': 359, 'num_filters_5': 377, 'num_filters_6': 465, 'num_fc_units': 457, 'lr': 0.07023431951050368, 'dropout_rate': 0.36595969396541195, 'num_training_data': 15812}
+Files already downloaded and verified
+train_accuracy: 0.09998735137869973 validation_accracy: 0.1 test_accuracy: 0.1 traning_time: 142.82777192397043 model_size: 22.476612
+record time: 10113.893211603165
+[[117.82777192]] [[-77.523388]]
+---------------   time out   ------------------

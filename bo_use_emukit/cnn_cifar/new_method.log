@@ -1,0 +1,319 @@
+cuda:0
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 286, 'num_filters_2': 206, 'num_filters_3': 135, 'num_filters_4': 295, 'num_filters_5': 142, 'num_filters_6': 396, 'num_fc_units': 122, 'lr': 0.07280135938926068, 'dropout_rate': 0.4740143898466948, 'num_training_data': 7479}
+Files already downloaded and verified
+train_accuracy: 0.10001337077149351 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -72.105592 training time: 63.249961744993925 model size: 27.894408
+Evaluating at 
+{'num_conv_layers': 1, 'num_filters_1': 362, 'num_filters_2': 26, 'num_filters_3': 287, 'num_filters_4': 292, 'num_filters_5': 151, 'num_filters_6': 464, 'num_fc_units': 1004, 'lr': 0.05404396859400134, 'dropout_rate': 0.7144387589719452, 'num_training_data': 7263}
+Files already downloaded and verified
+train_accuracy: 0.09995869475423379 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: 1 training time: 37.562422862043604 model size: 372.255512
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 30, 'num_filters_2': 280, 'num_filters_3': 262, 'num_filters_4': 122, 'num_filters_5': 296, 'num_filters_6': 198, 'num_fc_units': 970, 'lr': 0.005163714450868272, 'dropout_rate': 0.8566736541706867, 'num_training_data': 25727}
+Files already downloaded and verified
+train_accuracy: 0.6569751622808723 validation_accracy: 0.6196 test_accuracy: 0.6235 constraint_value: -31.948552000000007 training time: 140.96119750500657 model size: 68.051448
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 434, 'num_filters_2': 74, 'num_filters_3': 438, 'num_filters_4': 188, 'num_filters_5': 85, 'num_filters_6': 277, 'num_fc_units': 746, 'lr': 0.08523819532791067, 'dropout_rate': 0.7187312600520839, 'num_training_data': 29286}
+Files already downloaded and verified
+train_accuracy: 0.09997951239500102 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -42.23316 training time: 225.83230927796103 model size: 57.76684
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 70, 'num_filters_2': 502, 'num_filters_3': 157, 'num_filters_4': 432, 'num_filters_5': 32, 'num_filters_6': 104, 'num_fc_units': 99, 'lr': 0.020878912208499575, 'dropout_rate': 0.6496179052193599, 'num_training_data': 24808}
+Files already downloaded and verified
+train_accuracy: 0.10000806191551112 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -91.903776 training time: 213.78362690401264 model size: 8.096224
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 491, 'num_filters_2': 131, 'num_filters_3': 112, 'num_filters_4': 326, 'num_filters_5': 270, 'num_filters_6': 214, 'num_fc_units': 867, 'lr': 0.05833082050269233, 'dropout_rate': 0.2774899251801846, 'num_training_data': 25923}
+Files already downloaded and verified
+train_accuracy: 0.0999884272653628 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -23.390012 training time: 378.55488870479167 model size: 76.609988
+record time: 1093.571308851242
+constraint value : [[-23.390012]]
+best result: 
+------------------------------------------------------------
+best config: [4, 491, 131, 112, 326, 270, 214, 867, 0.05833082050269233, 0.2774899251801846, 25923] best result: [[0.9]] traning_time: 378.55488870479167 model size: 76.609988
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 400, 'num_filters_2': 243, 'num_filters_3': 211, 'num_filters_4': 464, 'num_filters_5': 325, 'num_filters_6': 240, 'num_fc_units': 301, 'lr': 0.0037873664280046204, 'dropout_rate': 0.034845218379157515, 'num_training_data': 18539}
+Files already downloaded and verified
+train_accuracy: 0.9355952316737688 validation_accracy: 0.5392 test_accuracy: 0.5243 constraint_value: -79.377772 training time: 280.02439725305885 model size: 20.622228
+record time: 1379.2507150173187
+constraint value : [[-79.377772]]
+best result: 
+------------------------------------------------------------
+best config: [5, 400, 243, 211, 464, 325, 240, 301, 0.0037873664280046204, 0.034845218379157515, 18539] best result: [[0.4608]] traning_time: 280.02439725305885 model size: 20.622228
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 502, 'num_filters_2': 372, 'num_filters_3': 127, 'num_filters_4': 390, 'num_filters_5': 332, 'num_filters_6': 113, 'num_fc_units': 872, 'lr': 0.08204387782744135, 'dropout_rate': 0.6366704643581945, 'num_training_data': 38199}
+Files already downloaded and verified
+train_accuracy: 0.10000261786957773 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -63.12934 training time: 682.8051075441763 model size: 36.87066
+record time: 2070.9633893966675
+constraint value : [[-63.12934]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 464, 'num_filters_2': 460, 'num_filters_3': 313, 'num_filters_4': 496, 'num_filters_5': 421, 'num_filters_6': 416, 'num_fc_units': 522, 'lr': 0.02377239111460256, 'dropout_rate': 0.63748209364238, 'num_training_data': 26642}
+Files already downloaded and verified
+train_accuracy: 0.10003002777569252 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -59.880072 training time: 694.908968372969 model size: 40.119928
+record time: 2774.103881597519
+constraint value : [[-59.880072]]
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 114, 'num_filters_2': 155, 'num_filters_3': 86, 'num_filters_4': 462, 'num_filters_5': 464, 'num_filters_6': 292, 'num_fc_units': 653, 'lr': 0.017339545698861186, 'dropout_rate': 0.2859986754987052, 'num_training_data': 14268}
+Files already downloaded and verified
+train_accuracy: 0.21257359125315392 validation_accracy: 0.208 test_accuracy: 0.2103 constraint_value: -84.465048 training time: 65.26089419610798 model size: 15.534952
+record time: 2843.5703682899475
+constraint value : [[-84.465048]]
+Evaluating at 
+{'num_conv_layers': 1, 'num_filters_1': 439, 'num_filters_2': 92, 'num_filters_3': 404, 'num_filters_4': 348, 'num_filters_5': 366, 'num_filters_6': 74, 'num_fc_units': 795, 'lr': 0.07162902750299335, 'dropout_rate': 0.8785896020583495, 'num_training_data': 25699}
+Files already downloaded and verified
+train_accuracy: 0.1000038912019923 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: 1 training time: 183.47141021094285 model size: 357.465308
+record time: 3032.8589301109314
+constraint value : [[1]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 332, 'num_filters_2': 162, 'num_filters_3': 403, 'num_filters_4': 255, 'num_filters_5': 376, 'num_filters_6': 53, 'num_fc_units': 826, 'lr': 0.054686671871357805, 'dropout_rate': 0.6698057056334888, 'num_training_data': 27649}
+Files already downloaded and verified
+train_accuracy: 0.10000361676733335 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: 1 training time: 266.4290343890898 model size: 139.033928
+record time: 3305.6316483020782
+constraint value : [[1]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 154, 'num_filters_2': 455, 'num_filters_3': 56, 'num_filters_4': 243, 'num_filters_5': 480, 'num_filters_6': 232, 'num_fc_units': 814, 'lr': 0.08384211204934268, 'dropout_rate': 0.6557983624610841, 'num_training_data': 5820}
+Files already downloaded and verified
+train_accuracy: 0.1 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: 1 training time: 70.0143803448882 model size: 381.836324
+record time: 3379.901377439499
+constraint value : [[1]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 340, 'num_filters_2': 339, 'num_filters_3': 245, 'num_filters_4': 323, 'num_filters_5': 95, 'num_filters_6': 385, 'num_fc_units': 209, 'lr': 0.07033087109728857, 'dropout_rate': 0.35387038987373376, 'num_training_data': 6989}
+Files already downloaded and verified
+train_accuracy: 0.1000143081985978 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -72.679064 training time: 118.11669241916388 model size: 27.320936
+record time: 3502.4259157180786
+constraint value : [[-72.679064]]
+Evaluating at 
+{'num_conv_layers': 6, 'num_filters_1': 478, 'num_filters_2': 107, 'num_filters_3': 260, 'num_filters_4': 189, 'num_filters_5': 106, 'num_filters_6': 103, 'num_fc_units': 986, 'lr': 0.09816581681868056, 'dropout_rate': 0.8181945468067208, 'num_training_data': 5208}
+Files already downloaded and verified
+train_accuracy: 0.1000384024577573 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -87.67418 training time: 62.92768625798635 model size: 12.32582
+record time: 3568.879503965378
+constraint value : [[-87.67418]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 296, 'num_filters_2': 384, 'num_filters_3': 484, 'num_filters_4': 216, 'num_filters_5': 479, 'num_filters_6': 117, 'num_fc_units': 202, 'lr': 0.08987164798929216, 'dropout_rate': 0.5859210647316998, 'num_training_data': 23737}
+Files already downloaded and verified
+train_accuracy: 0.10001263849686144 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -16.434848000000002 training time: 254.63395152194425 model size: 83.565152
+record time: 3829.4131886959076
+constraint value : [[-16.434848]]
+Evaluating at 
+{'num_conv_layers': 6, 'num_filters_1': 140, 'num_filters_2': 183, 'num_filters_3': 102, 'num_filters_4': 470, 'num_filters_5': 504, 'num_filters_6': 457, 'num_fc_units': 839, 'lr': 0.062270713938725276, 'dropout_rate': 0.10140543940666512, 'num_training_data': 12523}
+Files already downloaded and verified
+train_accuracy: 0.09997604407889484 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -55.261804 training time: 112.22199487290345 model size: 44.738196
+record time: 3946.0185012817383
+constraint value : [[-55.261804]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 308, 'num_filters_2': 408, 'num_filters_3': 473, 'num_filters_4': 266, 'num_filters_5': 298, 'num_filters_6': 317, 'num_fc_units': 963, 'lr': 0.039098878492023294, 'dropout_rate': 0.7044095456015537, 'num_training_data': 28911}
+Files already downloaded and verified
+train_accuracy: 0.09999654110892048 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -18.341279999999998 training time: 615.7632728300523 model size: 81.65872
+record time: 4569.815897941589
+constraint value : [[-18.34128]]
+Evaluating at 
+{'num_conv_layers': 1, 'num_filters_1': 116, 'num_filters_2': 126, 'num_filters_3': 272, 'num_filters_4': 195, 'num_filters_5': 51, 'num_filters_6': 208, 'num_fc_units': 60, 'lr': 0.021328976919253163, 'dropout_rate': 0.390716616763874, 'num_training_data': 11865}
+Files already downloaded and verified
+train_accuracy: 0.523472397808681 validation_accracy: 0.375 test_accuracy: 0.3803 constraint_value: -92.857288 training time: 15.447671243920922 model size: 7.142712
+record time: 4588.982345581055
+constraint value : [[-92.857288]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 448, 'num_filters_2': 430, 'num_filters_3': 319, 'num_filters_4': 430, 'num_filters_5': 221, 'num_filters_6': 499, 'num_fc_units': 922, 'lr': 0.039644786051535305, 'dropout_rate': 0.6979297180436234, 'num_training_data': 34188}
+Files already downloaded and verified
+train_accuracy: 0.10000585000585001 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -66.630488 training time: 887.2799125760794 model size: 33.369512
+record time: 5485.426128864288
+constraint value : [[-66.630488]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 135, 'num_filters_2': 446, 'num_filters_3': 437, 'num_filters_4': 62, 'num_filters_5': 25, 'num_filters_6': 156, 'num_fc_units': 995, 'lr': 0.05780086156136853, 'dropout_rate': 0.44176141285591053, 'num_training_data': 7436}
+Files already downloaded and verified
+train_accuracy: 0.10005379236148466 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -88.129964 training time: 96.40858747297898 model size: 11.870036
+record time: 5586.35133433342
+constraint value : [[-88.129964]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 214, 'num_filters_2': 82, 'num_filters_3': 350, 'num_filters_4': 443, 'num_filters_5': 452, 'num_filters_6': 183, 'num_fc_units': 94, 'lr': 0.019615770233259076, 'dropout_rate': 0.6997580625647656, 'num_training_data': 20812}
+Files already downloaded and verified
+train_accuracy: 0.09999039015952335 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -82.06127599999999 training time: 178.6216446699109 model size: 17.938724
+record time: 5770.415691375732
+constraint value : [[-82.061276]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 344, 'num_filters_2': 54, 'num_filters_3': 197, 'num_filters_4': 293, 'num_filters_5': 363, 'num_filters_6': 506, 'num_fc_units': 947, 'lr': 0.06677053237574715, 'dropout_rate': 0.41865314330396486, 'num_training_data': 11916}
+Files already downloaded and verified
+train_accuracy: 0.10003356831151393 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -70.95684800000001 training time: 99.63952039997093 model size: 29.043152
+record time: 5874.385835409164
+constraint value : [[-70.956848]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 463, 'num_filters_2': 285, 'num_filters_3': 317, 'num_filters_4': 45, 'num_filters_5': 398, 'num_filters_6': 91, 'num_fc_units': 395, 'lr': 0.033096947200043754, 'dropout_rate': 0.34904822254662204, 'num_training_data': 17958}
+Files already downloaded and verified
+train_accuracy: 0.10001113709767234 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -86.861396 training time: 320.3138552629389 model size: 13.138604
+record time: 6200.7159287929535
+constraint value : [[-86.861396]]
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 157, 'num_filters_2': 451, 'num_filters_3': 73, 'num_filters_4': 467, 'num_filters_5': 237, 'num_filters_6': 195, 'num_fc_units': 113, 'lr': 0.06634687013891964, 'dropout_rate': 0.3764330047478176, 'num_training_data': 13308}
+Files already downloaded and verified
+train_accuracy: 0.10001502855425308 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -94.129284 training time: 146.17749238503166 model size: 5.870716
+record time: 6351.511306285858
+constraint value : [[-94.129284]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 94, 'num_filters_2': 338, 'num_filters_3': 197, 'num_filters_4': 92, 'num_filters_5': 329, 'num_filters_6': 170, 'num_fc_units': 450, 'lr': 0.050088596554794876, 'dropout_rate': 0.06408631446060024, 'num_training_data': 16878}
+Files already downloaded and verified
+train_accuracy: 0.10001184974523047 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -85.175372 training time: 144.58123541693203 model size: 14.824628
+record time: 6500.937785625458
+constraint value : [[-85.175372]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 213, 'num_filters_2': 394, 'num_filters_3': 397, 'num_filters_4': 63, 'num_filters_5': 484, 'num_filters_6': 77, 'num_fc_units': 554, 'lr': 0.09915719866728584, 'dropout_rate': 0.8019125111526113, 'num_training_data': 5845}
+Files already downloaded and verified
+train_accuracy: 0.10008554319931566 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: 1 training time: 70.77964227693155 model size: 226.585664
+record time: 6575.894194602966
+constraint value : [[1]]
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 115, 'num_filters_2': 511, 'num_filters_3': 273, 'num_filters_4': 304, 'num_filters_5': 156, 'num_filters_6': 125, 'num_fc_units': 458, 'lr': 0.05336802099483551, 'dropout_rate': 0.30754433272954773, 'num_training_data': 13338}
+Files already downloaded and verified
+train_accuracy: 0.10001499475183685 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -60.81744 training time: 150.0358251798898 model size: 39.18256
+record time: 6730.724970579147
+constraint value : [[-60.81744]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 48, 'num_filters_2': 99, 'num_filters_3': 286, 'num_filters_4': 155, 'num_filters_5': 228, 'num_filters_6': 251, 'num_fc_units': 614, 'lr': 0.01271404960213033, 'dropout_rate': 0.8970540613799243, 'num_training_data': 29302}
+Files already downloaded and verified
+train_accuracy: 0.09999317452733601 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -37.551236 training time: 65.28860823693685 model size: 62.448764
+record time: 6801.64982676506
+constraint value : [[-37.551236]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 375, 'num_filters_2': 330, 'num_filters_3': 461, 'num_filters_4': 319, 'num_filters_5': 396, 'num_filters_6': 204, 'num_fc_units': 571, 'lr': 0.07658132641406791, 'dropout_rate': 0.18401212332889158, 'num_training_data': 16247}
+Files already downloaded and verified
+train_accuracy: 0.1000184649473749 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: 1 training time: 231.81590643990785 model size: 197.475804
+record time: 7039.090106010437
+constraint value : [[1]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 316, 'num_filters_2': 122, 'num_filters_3': 51, 'num_filters_4': 206, 'num_filters_5': 364, 'num_filters_6': 259, 'num_fc_units': 561, 'lr': 0.0983261101868194, 'dropout_rate': 0.8176012387470151, 'num_training_data': 28069}
+Files already downloaded and verified
+train_accuracy: 0.10000356264918593 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -68.363392 training time: 216.52784571191296 model size: 31.636608
+record time: 7261.7019720077515
+constraint value : [[-68.363392]]
+Evaluating at 
+{'num_conv_layers': 1, 'num_filters_1': 380, 'num_filters_2': 304, 'num_filters_3': 280, 'num_filters_4': 192, 'num_filters_5': 72, 'num_filters_6': 95, 'num_fc_units': 725, 'lr': 0.09215108470099653, 'dropout_rate': 0.40299785351825873, 'num_training_data': 15605}
+Files already downloaded and verified
+train_accuracy: 0.10003204101249599 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: 1 training time: 80.41637702193111 model size: 282.1865
+record time: 7346.738231658936
+constraint value : [[1]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 79, 'num_filters_2': 42, 'num_filters_3': 84, 'num_filters_4': 431, 'num_filters_5': 7, 'num_filters_6': 479, 'num_fc_units': 624, 'lr': 0.06338725348054157, 'dropout_rate': 0.4936026693499125, 'num_training_data': 9628}
+Files already downloaded and verified
+train_accuracy: 0.10002077274615705 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -98.023436 training time: 36.9155442439951 model size: 1.976564
+record time: 7387.562727212906
+constraint value : [[-98.023436]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 237, 'num_filters_2': 304, 'num_filters_3': 22, 'num_filters_4': 132, 'num_filters_5': 190, 'num_filters_6': 154, 'num_fc_units': 393, 'lr': 0.05880908562297312, 'dropout_rate': 0.7687167411305645, 'num_training_data': 8251}
+Files already downloaded and verified
+train_accuracy: 0.09998788025693855 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: 1 training time: 75.03001689398661 model size: 124.978148
+record time: 7466.627411842346
+constraint value : [[1]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 161, 'num_filters_2': 181, 'num_filters_3': 79, 'num_filters_4': 190, 'num_filters_5': 428, 'num_filters_6': 29, 'num_fc_units': 810, 'lr': 0.008165017122977692, 'dropout_rate': 0.8446349707657321, 'num_training_data': 18059}
+Files already downloaded and verified
+train_accuracy: 0.4210089152223268 validation_accracy: 0.4102 test_accuracy: 0.4075 constraint_value: -58.441888 training time: 117.30253982497379 model size: 41.558112
+record time: 7588.766803979874
+constraint value : [[-58.441888]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 175, 'num_filters_2': 299, 'num_filters_3': 114, 'num_filters_4': 236, 'num_filters_5': 264, 'num_filters_6': 306, 'num_fc_units': 894, 'lr': 0.010785329204386435, 'dropout_rate': 0.007264550354365906, 'num_training_data': 18104}
+Files already downloaded and verified
+train_accuracy: 0.9975143614670791 validation_accracy: 0.4452 test_accuracy: 0.4517 constraint_value: 1 training time: 158.0878053989727 model size: 275.665216
+record time: 7752.250491142273
+constraint value : [[1]]
+Evaluating at 
+{'num_conv_layers': 2, 'num_filters_1': 162, 'num_filters_2': 471, 'num_filters_3': 151, 'num_filters_4': 200, 'num_filters_5': 48, 'num_filters_6': 229, 'num_fc_units': 958, 'lr': 0.002061701803987368, 'dropout_rate': 0.538534826421433, 'num_training_data': 18752}
+Files already downloaded and verified
+train_accuracy: 0.9982935153583617 validation_accracy: 0.6372 test_accuracy: 0.6403 constraint_value: 1 training time: 231.06903888611123 model size: 464.856324
+record time: 7989.375560760498
+constraint value : [[1]]
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 4, 'num_filters_2': 209, 'num_filters_3': 236, 'num_filters_4': 207, 'num_filters_5': 439, 'num_filters_6': 259, 'num_fc_units': 568, 'lr': 0.09868087145615158, 'dropout_rate': 0.7252995686142585, 'num_training_data': 5099}
+Files already downloaded and verified
+train_accuracy: 0.10001961168856638 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -63.850692 training time: 19.252022502943873 model size: 36.149308
+record time: 8011.961793422699
+constraint value : [[-63.850692]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 355, 'num_filters_2': 53, 'num_filters_3': 416, 'num_filters_4': 130, 'num_filters_5': 378, 'num_filters_6': 217, 'num_fc_units': 513, 'lr': 0.08426966957009802, 'dropout_rate': 0.35902105337933116, 'num_training_data': 7717}
+Files already downloaded and verified
+train_accuracy: 0.10003887521057406 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -82.336236 training time: 67.05126864183694 model size: 17.663764
+record time: 8082.792207479477
+constraint value : [[-82.336236]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 25, 'num_filters_2': 386, 'num_filters_3': 507, 'num_filters_4': 20, 'num_filters_5': 112, 'num_filters_6': 103, 'num_fc_units': 905, 'lr': 0.04479490729228208, 'dropout_rate': 0.28560368191630026, 'num_training_data': 31332}
+Files already downloaded and verified
+train_accuracy: 0.09999361674964892 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -87.562376 training time: 308.17600005306304 model size: 12.437624
+record time: 8398.1396920681
+constraint value : [[-87.562376]]
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 253, 'num_filters_2': 11, 'num_filters_3': 112, 'num_filters_4': 107, 'num_filters_5': 316, 'num_filters_6': 138, 'num_fc_units': 750, 'lr': 0.027039318624527665, 'dropout_rate': 0.4606602158771493, 'num_training_data': 5955}
+Files already downloaded and verified
+train_accuracy: 0.10008396305625525 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -78.81774 training time: 22.848156952066347 model size: 21.18226
+record time: 8424.279967069626
+constraint value : [[-78.81774]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 403, 'num_filters_2': 60, 'num_filters_3': 272, 'num_filters_4': 486, 'num_filters_5': 352, 'num_filters_6': 151, 'num_fc_units': 857, 'lr': 0.03895930939989571, 'dropout_rate': 0.5370540231895323, 'num_training_data': 29371}
+Files already downloaded and verified
+train_accuracy: 0.09999659528105954 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -68.230436 training time: 322.7905052418355 model size: 31.769564
+record time: 8753.852990865707
+constraint value : [[-68.230436]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 192, 'num_filters_2': 235, 'num_filters_3': 341, 'num_filters_4': 199, 'num_filters_5': 428, 'num_filters_6': 296, 'num_fc_units': 689, 'lr': 0.066442997099761, 'dropout_rate': 0.2128363949588169, 'num_training_data': 19558}
+Files already downloaded and verified
+train_accuracy: 0.10001022599447797 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -71.05194399999999 training time: 194.8837802160997 model size: 28.948056
+record time: 8954.233042001724
+constraint value : [[-71.051944]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 229, 'num_filters_2': 390, 'num_filters_3': 436, 'num_filters_4': 485, 'num_filters_5': 247, 'num_filters_6': 16, 'num_fc_units': 788, 'lr': 0.03468151559430146, 'dropout_rate': 0.1611155363040873, 'num_training_data': 5499}
+Files already downloaded and verified
+train_accuracy: 0.1000181851245681 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -66.214924 training time: 104.58560256287456 model size: 33.785076
+record time: 9063.025347948074
+constraint value : [[-66.214924]]
+Evaluating at 
+{'num_conv_layers': 1, 'num_filters_1': 76, 'num_filters_2': 353, 'num_filters_3': 453, 'num_filters_4': 465, 'num_filters_5': 315, 'num_filters_6': 430, 'num_fc_units': 642, 'lr': 0.062727228497382, 'dropout_rate': 0.5022616715025126, 'num_training_data': 11094}
+Files already downloaded and verified
+train_accuracy: 0.09996394447449071 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -50.000192 training time: 12.783437087200582 model size: 49.999808
+record time: 9079.580949544907
+constraint value : [[-50.000192]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 187, 'num_filters_2': 104, 'num_filters_3': 377, 'num_filters_4': 449, 'num_filters_5': 357, 'num_filters_6': 64, 'num_fc_units': 240, 'lr': 0.0022569916941801815, 'dropout_rate': 0.5323238100545806, 'num_training_data': 16544}
+Files already downloaded and verified
+train_accuracy: 0.9986702127659575 validation_accracy: 0.7096 test_accuracy: 0.7072 constraint_value: -80.503796 training time: 159.7780919400975 model size: 19.496204
+record time: 9244.412744760513
+constraint value : [[-80.503796]]
+best result: 
+------------------------------------------------------------
+best config: [5, 187, 104, 377, 449, 357, 64, 240, 0.0022569916941801815, 0.5323238100545806, 16544] best result: [[0.2904]] traning_time: 159.7780919400975 model size: 19.496204
+Evaluating at 
+{'num_conv_layers': 4, 'num_filters_1': 66, 'num_filters_2': 68, 'num_filters_3': 189, 'num_filters_4': 202, 'num_filters_5': 150, 'num_filters_6': 507, 'num_fc_units': 667, 'lr': 0.05683490287999936, 'dropout_rate': 0.3384127292815859, 'num_training_data': 23420}
+Files already downloaded and verified
+train_accuracy: 0.1 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -63.470832 training time: 89.33794583007693 model size: 36.529168
+record time: 9338.985799312592
+constraint value : [[-63.470832]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 126, 'num_filters_2': 383, 'num_filters_3': 164, 'num_filters_4': 53, 'num_filters_5': 36, 'num_filters_6': 100, 'num_fc_units': 873, 'lr': 0.04384923423153185, 'dropout_rate': 0.1315064528453908, 'num_training_data': 9491}
+Files already downloaded and verified
+train_accuracy: 0.10009482667790538 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -93.55338 training time: 79.19647398800589 model size: 6.44662
+record time: 9422.435548305511
+constraint value : [[-93.55338]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 254, 'num_filters_2': 399, 'num_filters_3': 118, 'num_filters_4': 45, 'num_filters_5': 135, 'num_filters_6': 191, 'num_fc_units': 221, 'lr': 0.015155602208624736, 'dropout_rate': 0.8451554613374573, 'num_training_data': 9287}
+Files already downloaded and verified
+train_accuracy: 0.09992462582104017 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -92.296292 training time: 118.50204223510809 model size: 7.703708
+record time: 9545.247684955597
+constraint value : [[-92.296292]]
+Evaluating at 
+{'num_conv_layers': 1, 'num_filters_1': 390, 'num_filters_2': 64, 'num_filters_3': 133, 'num_filters_4': 24, 'num_filters_5': 119, 'num_filters_6': 23, 'num_fc_units': 463, 'lr': 0.029752391606032325, 'dropout_rate': 0.6771983485052362, 'num_training_data': 9995}
+Files already downloaded and verified
+train_accuracy: 0.4212106053026513 validation_accracy: 0.351 test_accuracy: 0.3533 constraint_value: 1 training time: 49.39195237401873 model size: 184.967772
+record time: 9598.799875974655
+constraint value : [[1]]
+Evaluating at 
+{'num_conv_layers': 3, 'num_filters_1': 319, 'num_filters_2': 24, 'num_filters_3': 336, 'num_filters_4': 360, 'num_filters_5': 240, 'num_filters_6': 193, 'num_fc_units': 900, 'lr': 0.09090187355693692, 'dropout_rate': 0.6728726358950354, 'num_training_data': 32341}
+Files already downloaded and verified
+train_accuracy: 0.09999690794966141 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -21.942871999999994 training time: 187.7651677550748 model size: 78.057128
+record time: 9792.924936056137
+constraint value : [[-21.942872]]
+Evaluating at 
+{'num_conv_layers': 6, 'num_filters_1': 90, 'num_filters_2': 7, 'num_filters_3': 509, 'num_filters_4': 491, 'num_filters_5': 4, 'num_filters_6': 254, 'num_fc_units': 471, 'lr': 0.044615211703685737, 'dropout_rate': 0.7750237730089061, 'num_training_data': 8260}
+Files already downloaded and verified
+train_accuracy: 0.1 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -83.05220800000001 training time: 58.576804421143606 model size: 16.947792
+record time: 9855.32706451416
+constraint value : [[-83.052208]]
+Evaluating at 
+{'num_conv_layers': 5, 'num_filters_1': 161, 'num_filters_2': 292, 'num_filters_3': 487, 'num_filters_4': 147, 'num_filters_5': 209, 'num_filters_6': 207, 'num_fc_units': 377, 'lr': 0.0931491220542929, 'dropout_rate': 0.5026775644216684, 'num_training_data': 14699}
+Files already downloaded and verified
+train_accuracy: 0.10000680318389006 validation_accracy: 0.1 test_accuracy: 0.1 constraint_value: -84.42304 training time: 175.98220274201594 model size: 15.57696
+record time: 10036.320018529892
+constraint value : [[-84.42304]]
+---------------   time out   ------------------

@@ -1,0 +1,29 @@
+number of trees : 1000:
+
+number of train instances : 60000
+number of test instances : 16000
+[0 0 0 ... 0 0 0]
+test accurancy : 0.992125
+balance accurancy : 0.855424
+
+----------------------------------------------------------------------------------------------------------
+
+100:
+
+number of train instances : 60000
+number of test instances : 16000
+[0 0 0 ... 0 0 0]
+test accurancy : 0.9925625
+balance accurancy : 0.8608533333333334
+
+----------------------------------------------------------------------------------------------------------
+
+10:
+
+number of train instances : 60000
+number of test instances : 16000
+[0 0 0 ... 0 0 0]
+test accurancy : 0.9909375
+balance accurancy : 0.8287893333333334
+
+Process finished with exit code 0

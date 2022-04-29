@@ -1,0 +1,65 @@
+best_config_constraint_10s:
+
+best_result_bohb:
+loss:  0.03515625
+test accurancy:  0.9563
+trining time: 5.004142817000684
+record time: 1070.2314219474792
+config:  {'dropout_rate': 0.3495134522871734, 'lr': 0.0018846323843696527, 'num_conv_layers': 2, 'num_fc_units': 146, 'num_filters_1': 13, 'num_filters_2': 45}
+budget: 2048
+
+
+best_config_constraint_15s:
+
+best_result_bo_emukit:
+loss:  0.041015625
+test accurancy:  0.9716
+trining time: 9.930153897999844
+record time: 664.1369869709015
+config:  [2, 4, 9, 36, 133, 0.0027183259766875244, 0.07423720626495105]
+
+best_result_bohb:
+loss:  0.0283203125
+test accurancy:  0.9766
+trining time: 11.4876954020001
+record time: 1033.822693824768
+config:  {'dropout_rate': 0.5167420170749271, 'lr': 0.0021254776199666836, 'num_conv_layers': 2, 'num_fc_units': 104, 'num_filters_1': 6, 'num_filters_2': 44}
+budget: 8192
+
+
+best_config_constraint_20s:
+
+best_result_bo_emukit:
+loss:  0.0537109375
+test accurancy:  0.9577
+trining time: 13.297082228000363
+record time: 854.2148132324219
+config:  [3, 5, 16, 25, 146, 0.004930653509842715, 0.003107132143501812]
+best_result_bohb:
+
+best_result_bohb:
+loss:  0.033203125
+test accurancy:  0.9644
+trining time: 16.88811973400152
+record time: 1353.3888545036316
+config:  {'dropout_rate': 0.11214326985690862, 'lr': 0.004647949882781399, 'num_conv_layers': 1, 'num_fc_units': 200, 'num_filters_1': 46}
+budget: 4096
+
+
+compare_bohb_incremental_and_bohb_15s:
+
+best_result_bohb:
+loss:  0.0263671875
+test accurancy:  0.9694
+trining time: 9.880011088000174
+record time: 1253.747516155243
+config:  {'dropout_rate': 0.4253989073351967, 'lr': 0.00672751168039761, 'num_conv_layers': 2, 'num_fc_units': 217, 'num_filters_1': 29, 'num_filters_2': 22}
+budget: 4096
+
+best_result_bohb_incremental:
+loss:  0.03515625
+test accurancy:  0.9757
+trining time: 13.118995015996916
+record time: 961.0628247261047
+config:  {'dropout_rate': 0.3982881347401384, 'lr': 0.0021342665266698667, 'num_conv_layers': 2, 'num_fc_units': 61, 'num_filters_1': 8, 'num_filters_2': 25}
+budget: 8192

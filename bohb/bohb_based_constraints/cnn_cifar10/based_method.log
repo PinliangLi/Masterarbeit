@@ -1,0 +1,833 @@
+cuda:2
+Files already downloaded and verified
+parameters size of model: 0.360564 MB
+current best results: [0.9 (0, 0, 0) 0.1 5.985436738003045 11.064980268478394 0.360564
+ {'dropout_rate': 0.2032256092945089, 'lr': 1.4360295145578612e-06, 'num_conv_layers': 2, 'num_fc_units': 11, 'num_filters_1': 64, 'num_filters_2': 26}
+ 5000]
+parameters size of model: 0.378816 MB
+current best results: [0.5224 (0, 0, 1) 0.4816 9.85945368790999 23.057546615600586 0.378816
+ {'dropout_rate': 0.65062712834869, 'lr': 0.00046836499586293235, 'num_conv_layers': 3, 'num_fc_units': 108, 'num_filters_1': 125, 'num_filters_2': 35, 'num_filters_3': 7}
+ 5000]
+parameters size of model: 5.692012 MB
+current best results: [0.5224 (0, 0, 1) 0.4816 9.85945368790999 27.908165454864502 0.378816
+ {'dropout_rate': 0.65062712834869, 'lr': 0.00046836499586293235, 'num_conv_layers': 3, 'num_fc_units': 108, 'num_filters_1': 125, 'num_filters_2': 35, 'num_filters_3': 7}
+ 5000]
+parameters size of model: 16.03272 MB
+current best results: [0.5224 (0, 0, 1) 0.4816 9.85945368790999 63.97277855873108 0.378816
+ {'dropout_rate': 0.65062712834869, 'lr': 0.00046836499586293235, 'num_conv_layers': 3, 'num_fc_units': 108, 'num_filters_1': 125, 'num_filters_2': 35, 'num_filters_3': 7}
+ 5000]
+parameters size of model: 0.182208 MB
+current best results: [0.5224 (0, 0, 1) 0.4816 9.85945368790999 73.77729105949402 0.378816
+ {'dropout_rate': 0.65062712834869, 'lr': 0.00046836499586293235, 'num_conv_layers': 3, 'num_fc_units': 108, 'num_filters_1': 125, 'num_filters_2': 35, 'num_filters_3': 7}
+ 5000]
+parameters size of model: 10.173064 MB
+current best results: [0.5224 (0, 0, 1) 0.4816 9.85945368790999 189.07499146461487 0.378816
+ {'dropout_rate': 0.65062712834869, 'lr': 0.00046836499586293235, 'num_conv_layers': 3, 'num_fc_units': 108, 'num_filters_1': 125, 'num_filters_2': 35, 'num_filters_3': 7}
+ 5000]
+parameters size of model: 1.535332 MB
+current best results: [0.5038 (0, 0, 6) 0.5075 5.714410863118246 196.73746991157532 1.535332
+ {'dropout_rate': 0.6693551164500341, 'lr': 0.0003910267711120898, 'num_conv_layers': 4, 'num_fc_units': 152, 'num_filters_1': 39, 'num_filters_2': 8, 'num_filters_3': 45, 'num_filters_4': 37}
+ 5000]
+parameters size of model: 1.63936 MB
+current best results: [0.5038 (0, 0, 6) 0.5075 5.714410863118246 210.0719268321991 1.535332
+ {'dropout_rate': 0.6693551164500341, 'lr': 0.0003910267711120898, 'num_conv_layers': 4, 'num_fc_units': 152, 'num_filters_1': 39, 'num_filters_2': 8, 'num_filters_3': 45, 'num_filters_4': 37}
+ 5000]
+parameters size of model: 0.378816 MB
+current best results: [0.48 (0, 0, 1) 0.5205 19.41842300607823 232.04146003723145 0.378816
+ {'dropout_rate': 0.65062712834869, 'lr': 0.00046836499586293235, 'num_conv_layers': 3, 'num_fc_units': 108, 'num_filters_1': 125, 'num_filters_2': 35, 'num_filters_3': 7}
+ 10000]
+parameters size of model: 0.182208 MB
+current best results: [0.4636 (0, 0, 4) 0.5467 15.290881957160309 249.8211374282837 0.182208
+ {'dropout_rate': 0.0991886013094052, 'lr': 0.0035620800839734176, 'num_conv_layers': 5, 'num_fc_units': 8, 'num_filters_1': 8, 'num_filters_2': 41, 'num_filters_3': 7, 'num_filters_4': 146, 'num_filters_5': 21}
+ 10000]
+parameters size of model: 1.535332 MB
+current best results: [0.42179999999999995 (0, 0, 6) 0.583 11.472733448026702 263.7264904975891
+ 1.535332
+ {'dropout_rate': 0.6693551164500341, 'lr': 0.0003910267711120898, 'num_conv_layers': 4, 'num_fc_units': 152, 'num_filters_1': 39, 'num_filters_2': 8, 'num_filters_3': 45, 'num_filters_4': 37}
+ 10000]
+parameters size of model: 1.63936 MB
+current best results: [0.42179999999999995 (0, 0, 6) 0.583 11.472733448026702 288.69214510917664
+ 1.535332
+ {'dropout_rate': 0.6693551164500341, 'lr': 0.0003910267711120898, 'num_conv_layers': 4, 'num_fc_units': 152, 'num_filters_1': 39, 'num_filters_2': 8, 'num_filters_3': 45, 'num_filters_4': 37}
+ 10000]
+parameters size of model: 1.535332 MB
+current best results: [0.3808 (0, 0, 6) 0.6338 22.748749705031514 314.93692898750305 1.535332
+ {'dropout_rate': 0.6693551164500341, 'lr': 0.0003910267711120898, 'num_conv_layers': 4, 'num_fc_units': 152, 'num_filters_1': 39, 'num_filters_2': 8, 'num_filters_3': 45, 'num_filters_4': 37}
+ 20000]
+parameters size of model: 1.63936 MB
+current best results: [0.348 (0, 0, 7) 0.6404 45.22354906308465 363.8892695903778 1.63936
+ {'dropout_rate': 0.16117170018865087, 'lr': 0.0003381456619511687, 'num_conv_layers': 6, 'num_fc_units': 120, 'num_filters_1': 109, 'num_filters_2': 33, 'num_filters_3': 26, 'num_filters_4': 21, 'num_filters_5': 58, 'num_filters_6': 143}
+ 20000]
+parameters size of model: 1.63936 MB
+current best results: [0.2942 (0, 0, 7) 0.7163 92.25451058195904 461.8529360294342 1.63936
+ {'dropout_rate': 0.16117170018865087, 'lr': 0.0003381456619511687, 'num_conv_layers': 6, 'num_fc_units': 120, 'num_filters_1': 109, 'num_filters_2': 33, 'num_filters_3': 26, 'num_filters_4': 21, 'num_filters_5': 58, 'num_filters_6': 143}
+ 40000]
+parameters size of model: 0.742168 MB
+current best results: [0.2942 (0, 0, 7) 0.7163 92.25451058195904 480.7020218372345 1.63936
+ {'dropout_rate': 0.16117170018865087, 'lr': 0.0003381456619511687, 'num_conv_layers': 6, 'num_fc_units': 120, 'num_filters_1': 109, 'num_filters_2': 33, 'num_filters_3': 26, 'num_filters_4': 21, 'num_filters_5': 58, 'num_filters_6': 143}
+ 40000]
+parameters size of model: 214.432556 MB
+parameters size of model: 1.511004 MB
+current best results: [0.2942 (0, 0, 7) 0.7163 92.25451058195904 553.9513494968414 1.63936
+ {'dropout_rate': 0.16117170018865087, 'lr': 0.0003381456619511687, 'num_conv_layers': 6, 'num_fc_units': 120, 'num_filters_1': 109, 'num_filters_2': 33, 'num_filters_3': 26, 'num_filters_4': 21, 'num_filters_5': 58, 'num_filters_6': 143}
+ 40000]
+parameters size of model: 33.121528 MB
+current best results: [0.2942 (0, 0, 7) 0.7163 92.25451058195904 646.6374492645264 1.63936
+ {'dropout_rate': 0.16117170018865087, 'lr': 0.0003381456619511687, 'num_conv_layers': 6, 'num_fc_units': 120, 'num_filters_1': 109, 'num_filters_2': 33, 'num_filters_3': 26, 'num_filters_4': 21, 'num_filters_5': 58, 'num_filters_6': 143}
+ 40000]
+parameters size of model: 1.511004 MB
+current best results: [0.2942 (0, 0, 7) 0.7163 92.25451058195904 676.609484910965 1.63936
+ {'dropout_rate': 0.16117170018865087, 'lr': 0.0003381456619511687, 'num_conv_layers': 6, 'num_fc_units': 120, 'num_filters_1': 109, 'num_filters_2': 33, 'num_filters_3': 26, 'num_filters_4': 21, 'num_filters_5': 58, 'num_filters_6': 143}
+ 40000]
+parameters size of model: 33.121528 MB
+current best results: [0.2942 (0, 0, 7) 0.7163 92.25451058195904 860.4237720966339 1.63936
+ {'dropout_rate': 0.16117170018865087, 'lr': 0.0003381456619511687, 'num_conv_layers': 6, 'num_fc_units': 120, 'num_filters_1': 109, 'num_filters_2': 33, 'num_filters_3': 26, 'num_filters_4': 21, 'num_filters_5': 58, 'num_filters_6': 143}
+ 40000]
+parameters size of model: 1.511004 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 920.8297333717346
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.264268 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 945.0223612785339
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.181092 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 975.4084978103638
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 1.960048 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 1024.1748390197754
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.706092 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 1130.7676134109497
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 1.960048 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 1227.5443229675293
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.706092 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 1441.1055996418
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.53078 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 1644.8891861438751
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.592372 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 1702.5391445159912
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.666356 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 1779.992743730545
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 5.324464 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2235.179844856262
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.365964 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2243.321143388748
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.201972 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2247.2038197517395
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.14156 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2251.226060152054
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.206572 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2257.3968946933746
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 60.502068 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2276.5826766490936
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 11.522388 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2289.468104124069
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 41.041008 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2296.830351829529
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 1.0217 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2307.1758663654327
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.206572 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2317.9359431266785
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 60.502068 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2354.697369813919
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 11.522388 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2378.923943758011
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 41.041008 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2392.3108372688293
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 60.502068 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2464.5121541023254
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 11.522388 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2511.687026500702
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 60.502068 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2658.1719512939453
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 12.166392 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2690.8048057556152
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.673104 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2723.55189204216
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.289156 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2738.539122581482
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.242044 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2745.2830562591553
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 12.166392 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2808.7293479442596
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.242044 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2822.015357017517
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 12.166392 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 2948.1794695854187
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 108.235384 MB
+parameters size of model: 1.508812 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 3046.669912815094
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 1.634584 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 3147.513001680374
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.449388 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 3160.1482820510864
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 1.508812 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 3270.8005526065826
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.449388 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 3297.3759570121765
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 3.395372 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 3339.9943668842316
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 1.617948 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 3576.4501056671143
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 8.540588 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 3657.8133561611176
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 1.382044 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 3950.669806957245
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.751812 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 3958.3876945972443
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 19.181372 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 3972.7413704395294
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 23.008716 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 3977.1808898448944
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 7.16588 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4001.7474608421326
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 11.529704 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4085.3215432167053
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 4.17454 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4095.119738817215
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.759352 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4103.737082958221
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.810208 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4117.987821817398
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.751812 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4131.590984344482
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 23.008716 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4138.528701782227
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 4.17454 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4156.685661077499
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.759352 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4172.165492534637
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 23.008716 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4186.580522060394
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.759352 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4216.278769254684
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.759352 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4274.712545633316
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 1.146912 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4289.121442317963
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 1.08602 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4301.763916730881
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.696552 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4316.503728151321
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 6.338724 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4335.979507446289
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 1.08602 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4359.4883353710175
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 6.338724 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4397.036787509918
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 1.08602 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4443.870275020599
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 1.195512 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4503.206373691559
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.101436 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4524.459596633911
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.485424 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4591.840097665787
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 2.798256 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4611.874167203903
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 0.485424 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4746.957753419876
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 2.798256 MB
+current best results: [0.28480000000000005 (1, 0, 2) 0.7033 54.7167311089579 4786.757619142532
+ 1.511004
+ {'dropout_rate': 0.6914643676435122, 'lr': 0.002393990439247107, 'num_conv_layers': 4, 'num_fc_units': 29, 'num_filters_1': 13, 'num_filters_2': 21, 'num_filters_3': 102, 'num_filters_4': 128}
+ 40000]
+parameters size of model: 3.741484 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 4869.704716920853 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 23.465652 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5193.530422449112 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 1.193376 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5272.595005512238 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 1.59074 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5354.974379062653 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 1.330652 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5362.684780597687 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 0.789684 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5396.543246984482 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 0.686376 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5431.4986753463745 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 6.988148 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5443.324996232986 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 1.476052 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5449.1711456775665 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 6.131956 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5466.640027999878 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 0.227568 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5473.163189411163 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 1.467356 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5486.790275812149 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 1.330652 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5500.713655471802 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 0.789684 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5566.517044782639 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 6.988148 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5588.458739757538 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 0.227568 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5599.427267551422 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 6.988148 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5642.0663187503815 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 0.227568 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5663.104488134384 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 0.227568 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5705.525587797165 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 0.368584 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5737.16201376915 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 25.205888 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5882.147477865219 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 35.592948 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5954.406623840332 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 13.144636 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 5986.603741168976 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 25.205888 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 6274.4925174713135 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 35.592948 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 6417.002452611923 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 35.592948 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 6701.4624376297 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 0.484644 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 6737.405917406082 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 14.089612 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 6867.96674489975 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 1.61304 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 6906.594693899155 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 10.761852 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 6982.91562461853 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 0.484644 MB
+current best results: [0.2804 (11, 0, 0) 0.7216 76.89354952401482 7054.82546210289 3.741484
+ {'dropout_rate': 0.21955610512682072, 'lr': 0.0010313928154747159, 'num_conv_layers': 6, 'num_fc_units': 259, 'num_filters_1': 72, 'num_filters_2': 35, 'num_filters_3': 7, 'num_filters_4': 44, 'num_filters_5': 16, 'num_filters_6': 209}
+ 40000]
+parameters size of model: 14.089612 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 7315.831409454346
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 4.166888 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 7345.38467335701
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 0.413984 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 7390.727619886398
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 4.689036 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 7833.001219511032
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 2.939552 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8121.848389387131
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 0.69774 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8126.024395227432
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 1.355848 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8137.535168170929
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 0.537356 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8143.208622455597
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 3.150032 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8182.116601467133
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 2.363228 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8186.567093372345
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 23.365564 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8208.476269721985
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 1.216464 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8219.028697252274
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 14.172772 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8230.169862747192
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 0.537356 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8239.973608255386
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 3.150032 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8315.993267774582
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 23.365564 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8357.953887701035
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 1.216464 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8377.45580458641
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 3.150032 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8527.390865564346
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 23.365564 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8610.149858236313
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 3.150032 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8909.145290374756
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 0.955044 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8931.968002319336
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 0.69834 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8983.377154827118
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 1.703312 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 8992.852698087692
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 0.407336 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 9006.94543504715
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 0.955044 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 9050.75022983551
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 1.703312 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 9067.824704885483
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 1.703312 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 9102.008083343506
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 1.007476 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 9150.511444568634
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 1.289044 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 9285.89805316925
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 1.843352 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 9310.42199063301
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 2.358396 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 9391.436583518982
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 1.007476 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 9487.583594799042
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 1.289044 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 9757.648046016693
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 1.48804 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549 9857.108130455017
+ 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+parameters size of model: 4.843092 MB
+current best results: [0.21760000000000002 (14, 0, 1) 0.7668 254.4029343740549
+ 10008.953399419785 14.089612
+ {'dropout_rate': 0.29078037211375113, 'lr': 0.0016338149318377388, 'num_conv_layers': 4, 'num_fc_units': 971, 'num_filters_1': 39, 'num_filters_2': 342, 'num_filters_3': 116, 'num_filters_4': 48}
+ 40000]
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
+time out
